@@ -16,3 +16,9 @@ C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\obj\Releas
 C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\obj\Release\CsFoxySmtp.csproj.CoreCompileInputs.cache
 C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\obj\Release\CsFoxySmtp.dll
 C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\obj\Release\CsFoxySmtp.pdb
+C:\Users\anton\Developer\VS2022\CsFoxySmtp\bin\Release\CsFoxySmtp.dll
+C:\Users\anton\Developer\VS2022\CsFoxySmtp\bin\Release\CsFoxySmtp.pdb
+C:\Users\anton\Developer\VS2022\CsFoxySmtp\obj\Release\CsFoxySmtp.csproj.AssemblyReference.cache
+C:\Users\anton\Developer\VS2022\CsFoxySmtp\obj\Release\CsFoxySmtp.csproj.CoreCompileInputs.cache
+C:\Users\anton\Developer\VS2022\CsFoxySmtp\obj\Release\CsFoxySmtp.dll
+C:\Users\anton\Developer\VS2022\CsFoxySmtp\obj\Release\CsFoxySmtp.pdb
