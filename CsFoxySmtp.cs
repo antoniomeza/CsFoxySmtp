@@ -21,7 +21,7 @@ namespace CsFoxySmtp
     public class CsFoxySmtp : System.EnterpriseServices.ServicedComponent
     {
 
-        private readonly string _version = "1.0.3";
+        private readonly string _version = "1.0.5";
         public string from          = "";
         public string replayTo      = "";
         public string user          = "";
