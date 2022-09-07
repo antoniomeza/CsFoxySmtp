@@ -7,3 +7,5 @@
 # Plataforma de Destino: Net FrameWork v4.8 - x86
 
 # Versión actual 1.0.5
+
+# https://foxydb.wordpress.com/csfoxysmtp/
