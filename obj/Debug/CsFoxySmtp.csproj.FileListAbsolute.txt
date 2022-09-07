@@ -1,0 +1,6 @@
+D:\csharp\CsFoxySmtp\obj\Debug\CsFoxySmtp.csprojAssemblyReference.cache
+D:\csharp\CsFoxySmtp\obj\Debug\CsFoxySmtp.csproj.CoreCompileInputs.cache
+D:\csharp\CsFoxySmtp\bin\Debug\CsFoxySmtp.dll
+D:\csharp\CsFoxySmtp\bin\Debug\CsFoxySmtp.pdb
+D:\csharp\CsFoxySmtp\obj\Debug\CsFoxySmtp.dll
+D:\csharp\CsFoxySmtp\obj\Debug\CsFoxySmtp.pdb

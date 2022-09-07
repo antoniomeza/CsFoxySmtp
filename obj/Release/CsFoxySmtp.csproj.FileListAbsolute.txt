@@ -1,0 +1,18 @@
+D:\csharp\CsFoxySmtp\bin\Release\CsFoxySmtp.dll
+D:\csharp\CsFoxySmtp\bin\Release\CsFoxySmtp.pdb
+D:\csharp\CsFoxySmtp\obj\Release\CsFoxySmtp.csprojAssemblyReference.cache
+D:\csharp\CsFoxySmtp\obj\Release\CsFoxySmtp.csproj.CoreCompileInputs.cache
+D:\csharp\CsFoxySmtp\obj\Release\CsFoxySmtp.dll
+D:\csharp\CsFoxySmtp\obj\Release\CsFoxySmtp.pdb
+C:\Users\anton\OneDrive - FIT\Documentos\VS2019 Projects\CsFoxySmtp\bin\Release\CsFoxySmtp.dll
+C:\Users\anton\OneDrive - FIT\Documentos\VS2019 Projects\CsFoxySmtp\bin\Release\CsFoxySmtp.pdb
+C:\Users\anton\OneDrive - FIT\Documentos\VS2019 Projects\CsFoxySmtp\obj\Release\CsFoxySmtp.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive - FIT\Documentos\VS2019 Projects\CsFoxySmtp\obj\Release\CsFoxySmtp.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive - FIT\Documentos\VS2019 Projects\CsFoxySmtp\obj\Release\CsFoxySmtp.dll
+C:\Users\anton\OneDrive - FIT\Documentos\VS2019 Projects\CsFoxySmtp\obj\Release\CsFoxySmtp.pdb
+C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\bin\Release\CsFoxySmtp.dll
+C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\bin\Release\CsFoxySmtp.pdb
+C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\obj\Release\CsFoxySmtp.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\obj\Release\CsFoxySmtp.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\obj\Release\CsFoxySmtp.dll
+C:\Users\anton\OneDrive - FIT\Documentos\VS2022 Projects\CsFoxySmtp22\obj\Release\CsFoxySmtp.pdb
